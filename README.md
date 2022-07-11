@@ -1,10 +1,9 @@
+# Calculator-App
+Fully Functional Calculator
 
-# QuizApp 
-A quiz app that displays highscores of mutiple users.
+## [Play]()
 
-## [Play](https://aashutoshdubey0.github.io/Calculator-App/)
-
-![Quiz Gif](https://user-images.githubusercontent.com/83122406/178221173-46f09a44-a179-4bc6-84ad-f851c6be0d1e.gif)
+![Calc Gif](https://user-images.githubusercontent.com/83122406/178220530-415e1a8d-fc98-4fc0-a4ed-adbde5bdb494.gif)
 
 
-Made Using HTML,CSS and JS
+
